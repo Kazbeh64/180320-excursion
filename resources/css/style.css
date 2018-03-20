@@ -27,3 +27,13 @@ a:visited {
 a:hover {
   font-weight: bold;
 }
+
+p{
+  color: gray;
+  font-family: Verdana;
+  font-size: 21px;
+}
+
+.copyright {
+  text-align: right;
+}
