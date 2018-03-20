@@ -37,3 +37,10 @@ p{
 .copyright {
   text-align: right;
 }
+
+h2 {
+  font-family: Verdana;
+  color: white;
+  font-weight: 300;
+  font-size: 42px;
+}
